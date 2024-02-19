@@ -8,5 +8,6 @@ function show() {
     } else {
       projects.style.display = "block";
       showing = 1;
+      projects.style.animation = "fadeIn 1s";
     }
 }

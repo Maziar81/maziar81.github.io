@@ -10,7 +10,7 @@
   height: 100vh;
   top: 0;
   left: 0;
-  background: #01161e;
+  background: #0D1B2A;
   overflow: hidden;
   z-index: -1;
 }
@@ -28,7 +28,7 @@
 }
 
 .background span:nth-child(0) {
-  color: #aec3b0;
+  color: #1B263B;
   top: 48%;
   left: 82%;
   animation-duration: 181s;
@@ -37,7 +37,7 @@
   box-shadow: 36vmin 0 4.848320994826587vmin currentColor;
 }
 .background span:nth-child(1) {
-  color: #598392;
+  color: #415A77;
   top: 57%;
   left: 59%;
   animation-duration: 127s;
@@ -46,7 +46,7 @@
   box-shadow: 36vmin 0 5.177122346877956vmin currentColor;
 }
 .background span:nth-child(2) {
-  color: #124559;
+  color: #778DA9;
   top: 15%;
   left: 33%;
   animation-duration: 111s;
@@ -64,7 +64,7 @@
   box-shadow: 36vmin 0 5.377800958832553vmin currentColor;
 }
 .background span:nth-child(4) {
-  color: #aec3b0;
+  color: #0D1B2A;
   top: 83%;
   left: 53%;
   animation-duration: 118s;
@@ -73,7 +73,7 @@
   box-shadow: -36vmin 0 4.798299114511214vmin currentColor;
 }
 .background span:nth-child(5) {
-  color: #aec3b0;
+  color: #0D1B2A;
   top: 28%;
   left: 74%;
   animation-duration: 78s;
@@ -82,7 +82,7 @@
   box-shadow: -36vmin 0 4.515709154336243vmin currentColor;
 }
 .background span:nth-child(6) {
-  color: #124559;
+  color: #415A77;
   top: 2%;
   left: 76%;
   animation-duration: 100s;
@@ -91,7 +91,7 @@
   box-shadow: 36vmin 0 4.52565917102439vmin currentColor;
 }
 .background span:nth-child(7) {
-  color: #124559;
+  color: #415A77;
   top: 50%;
   left: 60%;
   animation-duration: 153s;
@@ -100,7 +100,7 @@
   box-shadow: 36vmin 0 5.1255389910625215vmin currentColor;
 }
 .background span:nth-child(8) {
-  color: #124559;
+  color: #415A77;
   top: 40%;
   left: 50%;
   animation-duration: 74s;
@@ -109,7 +109,7 @@
   box-shadow: -36vmin 0 5.190521155863527vmin currentColor;
 }
 .background span:nth-child(9) {
-  color: #aec3b0;
+  color: #0D1B2A;
   top: 31%;
   left: 78%;
   animation-duration: 84s;
@@ -118,7 +118,7 @@
   box-shadow: -36vmin 0 5.178503122919782vmin currentColor;
 }
 .background span:nth-child(10) {
-  color: #124559;
+  color: #415A77;
   top: 8%;
   left: 75%;
   animation-duration: 177s;
@@ -127,7 +127,7 @@
   box-shadow: 36vmin 0 5.377172255793292vmin currentColor;
 }
 .background span:nth-child(11) {
-  color: #aec3b0;
+  color: #0D1B2A;
   top: 61%;
   left: 68%;
   animation-duration: 20s;
@@ -136,7 +136,7 @@
   box-shadow: -36vmin 0 5.045388521036627vmin currentColor;
 }
 .background span:nth-child(12) {
-  color: #124559;
+  color: #415A77;
   top: 56%;
   left: 68%;
   animation-duration: 172s;
@@ -145,7 +145,7 @@
   box-shadow: 36vmin 0 5.190524005455042vmin currentColor;
 }
 .background span:nth-child(13) {
-  color: #aec3b0;
+  color: #0D1B2A;
   top: 26%;
   left: 73%;
   animation-duration: 110s;
@@ -154,7 +154,7 @@
   box-shadow: -36vmin 0 5.040870326826297vmin currentColor;
 }
 .background span:nth-child(14) {
-  color: #aec3b0;
+  color: #0D1B2A;
   top: 84%;
   left: 41%;
   animation-duration: 11s;
@@ -163,7 +163,7 @@
   box-shadow: 36vmin 0 5.2008694460209135vmin currentColor;
 }
 .background span:nth-child(15) {
-  color: #aec3b0;
+  color: #0D1B2A;
   top: 63%;
   left: 47%;
   animation-duration: 96s;
@@ -181,7 +181,7 @@
   box-shadow: 36vmin 0 5.07610366495792vmin currentColor;
 }
 .background span:nth-child(17) {
-  color: #124559;
+  color: #415A77;
   top: 40%;
   left: 48%;
   animation-duration: 83s;
@@ -199,7 +199,7 @@
   box-shadow: -36vmin 0 4.907364444734238vmin currentColor;
 }
 .background span:nth-child(19) {
-  color: #aec3b0;
+  color: #778DA9;
   top: 62%;
   left: 46%;
   animation-duration: 182s;
@@ -217,7 +217,7 @@
   box-shadow: 36vmin 0 5.3754862418692015vmin currentColor;
 }
 .background span:nth-child(21) {
-  color: #124559;
+  color: #415A77;
   top: 69%;
   left: 60%;
   animation-duration: 76s;
@@ -262,7 +262,7 @@
   box-shadow: 36vmin 0 5.048124939705239vmin currentColor;
 }
 .background span:nth-child(26) {
-  color: #aec3b0;
+  color: #415A77;
   top: 63%;
   left: 69%;
   animation-duration: 171s;
@@ -271,7 +271,7 @@
   box-shadow: 36vmin 0 5.07997292994695vmin currentColor;
 }
 .background span:nth-child(27) {
-  color: #124559;
+  color: #415A77;
   top: 73%;
   left: 77%;
   animation-duration: 175s;
@@ -280,7 +280,7 @@
   box-shadow: -36vmin 0 5.071812626750932vmin currentColor;
 }
 .background span:nth-child(28) {
-  color: #aec3b0;
+  color: #415A77;
   top: 21%;
   left: 37%;
   animation-duration: 128s;
@@ -289,7 +289,7 @@
   box-shadow: -36vmin 0 5.320010842785425vmin currentColor;
 }
 .background span:nth-child(29) {
-  color: #124559;
+  color: #778DA9;
   top: 10%;
   left: 75%;
   animation-duration: 158s;
@@ -298,7 +298,7 @@
   box-shadow: 36vmin 0 4.762932947848074vmin currentColor;
 }
 .background span:nth-child(30) {
-  color: #aec3b0;
+  color: #415A77;
   top: 100%;
   left: 69%;
   animation-duration: 72s;
@@ -307,7 +307,7 @@
   box-shadow: 36vmin 0 4.75464547766637vmin currentColor;
 }
 .background span:nth-child(31) {
-  color: #aec3b0;
+  color: #415A77;
   top: 13%;
   left: 76%;
   animation-duration: 87s;
@@ -328,14 +328,16 @@ body {
 }
 
 .text {
-    display: grid;
-    place-items: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
 }
 
 .text h1{
   font-size: 50px;
-  color: #D1D0CE;
+  color: #E0E1DD;
   text-align: center;
   font-family: 'Golos Text', sans-serif;
   font-weight: 400;
@@ -347,7 +349,7 @@ body {
 
 .text h2{
   font-size: 30px;
-  color: #D1D0CE;
+  color: #E0E1DD;
   text-align: center;
   font-family: 'Golos Text', sans-serif;
   font-weight: 400;
@@ -359,7 +361,7 @@ body {
 
 .text p{
   font-size: 24px;
-  color: #D1D0CE;
+  color: #E0E1DD;
   text-align: center;
   font-family: 'Golos Text', sans-serif;
   font-weight: 400;
@@ -380,7 +382,7 @@ body {
 
 .text a{
   font-size: 42px;
-  color: #D1D0CE;
+  color: #E0E1DD;
   text-align: center;
   font-family: 'Golos Text', sans-serif;
   margin: 12px;
@@ -396,12 +398,12 @@ body {
   font-family: 'Golos Text', sans-serif;
   align-items: center;
   appearance: none;
-  background-color: #fff;
+  background-color: #778DA9;
   border-radius: 24px;
   border-style: none;
   box-shadow: rgba(0, 0, 0, .2) 0 3px 5px -1px,rgba(0, 0, 0, .14) 0 6px 10px 0,rgba(0, 0, 0, .12) 0 1px 18px 0;
   box-sizing: border-box;
-  color: #3c4043;
+  color: #fff;
   cursor: pointer;
   display: inline-flex;
   fill: currentcolor;
@@ -428,8 +430,8 @@ body {
 }
 
 .button-17:hover {
-  background: #F6F9FE;
-  color: #174ea6;
+  background: #0f3b7d;
+  color: #fff;
 }
 
 .button-17:active {
@@ -463,13 +465,40 @@ body {
 }
 
 .projects {
-    display: grid;
-    place-items: center;
-    padding: 15;
-    margin: 5;
+    .project {
+      display: grid;
+      place-items: center;
+      padding: 15px;
+      margin: 5px;
+      background-color: rgba(13, 27, 42, 0.8);
+      backdrop-filter: blur(10px);
+      border-radius: 8px;
+      box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 5px -1px, rgba(0, 0, 0, 0.14) 0px 6px 10px 0px, rgba(0, 0, 0, 0.12) 0px 1px 18px 0px;
+      transition: transform 0.3s ease-in-out;
+      animation: fadeIn 0.5s ease-in-out;
+    }
+
+    .project:hover {
+      transform: scale(1.05);
+      box-shadow: rgba(119, 141, 169, 0.2) 0px 3px 5px -1px, rgba(119, 141, 169, 0.14) 0px 6px 10px 0px, rgba(119, 141, 169, 0.12) 0px 1px 18px 0px;
+    }
+
 }
 
 .project{
   color: #D1D0CE;
   font-family: 'Golos Text', sans-serif;
+  text-align: center;
+}
+
+.project h3{
+  font-size: 24px;
+  color: #E0E1DD;
+  text-align: center;
+  font-family: 'Golos Text', sans-serif;
+  font-weight: 400;
+  letter-spacing: 2px;
+  text-transform: capitalize;
+  margin: 0;
+  padding: 2px;
 }

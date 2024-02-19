@@ -7,14 +7,12 @@
 <link rel="stylesheet" href="./style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 
 
 </head>
 <body>
-    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-
     <div class="background">
         <span></span>
         <span></span>
@@ -48,13 +46,18 @@
         <span></span>
         <span></span>
         <span></span>
-   </div>
+    </div>
 
-   <div class="text">
+    
 
-    <h1>Maziar Mehrafza</h1>
-    <h2>Software Engineer</h2>
-    <p>Second year student at the University of Toronto, majoring in Computer Sciences. <br> Open to new oppotunities and experiences.</p>
+  <div class="text" style="float: left;">
+
+    <div class="sub" style="float: left;">
+      <h1>Maziar Mehrafza</h1>
+      <h2>Junior Software Engineer</h2>
+      <p>Computer Science Student at the University of Toronto</p>
+    </div>
+    
 
     <div class="social">
       <div class="wrapper">
@@ -64,32 +67,28 @@
         </div>
       </div>
 
-      <button class="button-17" onclick="show()">Projects</button>
+      <button class="button-17" id="button-17" onclick="show()">Projects</button>
 
     <div style="display: none;" class="projects" id="projects">
       <div class="project">
           <h3>UNO Clone<a style="font-size: 16px;" href="https://github.com/Maziar81/UNO-Victims" target="_blank">(View on Github)</a></h3>
-          <p>Fully functional clone of the popular card game UNO with new cards and a visual accessebility options.</p>
       </div>
 
       <div class="project">
-          <h3>Data Visualiser</h3>
-          <p>Created a data visualizer in Python that utilizes treemaps to display storage, movement, deletion, and resizing of files.</p>
+          <h3>PRO Powerwash Booking App</h3>
       </div>
 
       <div class="project">
-          <h3>File compressor script</h3>
-          <p>Developed a Python-based file compression and decompression script utilizing the greedy Huffman compression algorithm, resulting in a maximum compression efficiency of 92%</p>
+          <h3>File compressor</h3>
       </div>
 
       <div class="project">
         <h3>Tetris Clone</h3>
-        <p>Working clone of the popular retro game Tetris, written in Java.</p>
+      </div>
 
-        <div class="project">
-          <h3>Phone company customer monitor</h3>
-          <p>A GUI application that monitors customers, plans and customer call histories.</p>
-    </div>
+      <div class="project">
+        <h3>Playlist Switcher</h3>
+      </div>
     </div>
 
     
